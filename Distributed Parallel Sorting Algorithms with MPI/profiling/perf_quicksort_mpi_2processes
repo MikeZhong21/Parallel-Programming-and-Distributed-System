@@ -1,0 +1,23 @@
+ Performance counter stats for './build/src/quicksort/quicksort_mpi 100000000':
+
+    65,222,256,270      cpu-cycles:u                                                
+        53,649,094      cache-misses:u                                              
+           446,917      page-faults:u                                               
+
+      24.886309786 seconds time elapsed
+
+      23.246707000 seconds user
+       1.537343000 seconds sys
+
+
+
+ Performance counter stats for './build/src/quicksort/quicksort_mpi 100000000':
+
+    66,790,686,243      cpu-cycles:u                                                
+       150,016,472      cache-misses:u                                              
+         1,047,672      page-faults:u                                               
+
+      24.891785446 seconds time elapsed
+
+      23.197877000 seconds user
+       1.595140000 seconds sys

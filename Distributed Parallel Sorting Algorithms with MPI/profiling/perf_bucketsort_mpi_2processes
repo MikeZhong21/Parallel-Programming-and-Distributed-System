@@ -1,0 +1,24 @@
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    58,760,895,465      cpu-cycles:u                                                
+       128,361,109      cache-misses:u                                              
+           935,815      page-faults:u                                               
+
+      21.742778512 seconds time elapsed
+
+      20.389303000 seconds user
+       1.258118000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    57,230,223,113      cpu-cycles:u                                                
+        45,188,306      cache-misses:u                                              
+           460,810      page-faults:u                                               
+
+      21.710149107 seconds time elapsed
+
+      20.251092000 seconds user
+       1.389643000 seconds sys
+

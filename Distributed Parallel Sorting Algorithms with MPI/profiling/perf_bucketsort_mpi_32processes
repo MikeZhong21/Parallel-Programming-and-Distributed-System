@@ -1,0 +1,414 @@
+Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,613,283,695      cpu-cycles:u                                                
+        32,577,071      cache-misses:u                                              
+           111,641      page-faults:u                                               
+
+      24.188222054 seconds time elapsed
+
+      22.667328000 seconds user
+       1.250150000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,532,845,292      cpu-cycles:u                                                
+        32,497,661      cache-misses:u                                              
+           111,744      page-faults:u                                               
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,542,022,582      cpu-cycles:u                                                
+        32,937,623      cache-misses:u                                              
+           111,739      page-faults:u                                               
+
+      26.129809554 seconds time elapsed
+
+      22.657540000 seconds user
+       1.260969000 seconds sys
+
+
+      24.393076043 seconds time elapsed
+
+      22.608443000 seconds user
+       1.308899000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,594,481,127      cpu-cycles:u                                                
+        31,173,421      cache-misses:u                                              
+           108,159      page-faults:u                                               
+
+      26.412348967 seconds time elapsed
+
+      22.638533000 seconds user
+       1.277925000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,564,371,115      cpu-cycles:u                                                
+        31,675,501      cache-misses:u                                              
+           108,981      page-faults:u                                               
+
+      24.663086281 seconds time elapsed
+
+      22.660258000 seconds user
+       1.257018000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,543,542,279      cpu-cycles:u                                                
+        31,589,233      cache-misses:u                                              
+           108,723      page-faults:u                                               
+
+      25.080893686 seconds time elapsed
+
+      22.658055000 seconds user
+       1.260055000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,601,880,107      cpu-cycles:u                                                
+        32,050,639      cache-misses:u                                              
+           110,770      page-faults:u                                               
+
+      24.365358413 seconds time elapsed
+
+      22.693742000 seconds user
+       1.227012000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,499,545,469      cpu-cycles:u                                                
+        32,158,430      cache-misses:u                                              
+           111,255      page-faults:u                                               
+
+      25.654679732 seconds time elapsed
+
+      22.628569000 seconds user
+       1.290951000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,597,536,008      cpu-cycles:u                                                
+        31,551,884      cache-misses:u                                              
+           108,459      page-faults:u                                               
+
+      24.172880534 seconds time elapsed
+
+      22.651226000 seconds user
+       1.268101000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,525,101,141      cpu-cycles:u                                                
+        32,289,743      cache-misses:u                                              
+           111,005      page-faults:u                                               
+
+      25.068450241 seconds time elapsed
+
+      22.672981000 seconds user
+       1.247028000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,584,972,775      cpu-cycles:u                                                
+        32,469,556      cache-misses:u                                              
+           110,875      page-faults:u                                               
+
+      24.340226088 seconds time elapsed
+
+    64,542,463,590      cpu-cycles:u                                                
+        31,497,471      cache-misses:u                                              
+           110,958      page-faults:u                                               
+
+      24.536375939 seconds time elapsed
+
+      22.733597000 seconds user
+       1.189206000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,613,690,212      cpu-cycles:u                                                
+        31,455,356      cache-misses:u                                              
+           111,490      page-faults:u                                               
+
+      24.153460439 seconds time elapsed
+
+      22.616753000 seconds user
+       1.305042000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,630,834,104      cpu-cycles:u                                                
+        31,789,019      cache-misses:u                                              
+           111,406      page-faults:u                                               
+
+      25.084525385 seconds time elapsed
+
+      22.634207000 seconds user
+       1.287995000 seconds sys
+
+
+    64,591,949,998      cpu-cycles:u                                                
+        32,031,550      cache-misses:u                                              
+           110,928      page-faults:u                                               
+
+      25.076242061 seconds time elapsed
+
+      22.691764000 seconds user
+       1.230114000 seconds sys
+
+
+      22.691417000 seconds user
+       1.230149000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,581,417,700      cpu-cycles:u                                                
+        32,319,570      cache-misses:u                                              
+           110,883      page-faults:u                                               
+
+      26.455746564 seconds time elapsed
+
+      22.603581000 seconds user
+       1.320936000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,019,163,595      cpu-cycles:u                                                
+        27,567,011      cache-misses:u                                              
+           240,362      page-faults:u                                               
+
+      24.178219799 seconds time elapsed
+
+      22.436941000 seconds user
+       1.630611000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    63,998,422,459      cpu-cycles:u                                                
+        26,747,502      cache-misses:u                                              
+           237,922      page-faults:u                                               
+
+      24.277762844 seconds time elapsed
+
+      22.474932000 seconds user
+       1.590989000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    63,961,743,620      cpu-cycles:u                                                
+        26,729,922      cache-misses:u                                              
+           238,256      page-faults:u                                               
+
+      24.149014679 seconds time elapsed
+
+      22.446305000 seconds user
+       1.618922000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,033,285,841      cpu-cycles:u                                                
+        27,377,030      cache-misses:u                                              
+           240,690      page-faults:u                                               
+
+      24.147483326 seconds time elapsed
+
+      22.518633000 seconds user
+       1.532956000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,032,616,689      cpu-cycles:u                                                
+        27,497,220      cache-misses:u                                              
+           240,352      page-faults:u                                               
+
+      24.149022243 seconds time elapsed
+
+      22.488105000 seconds user
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+       1.577703000 seconds sys
+
+
+    63,928,680,053      cpu-cycles:u                                                
+        26,715,263      cache-misses:u                                              
+           237,871      page-faults:u                                               
+
+      24.153576769 seconds time elapsed
+
+      22.379119000 seconds user
+       1.684692000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    63,986,765,078      cpu-cycles:u                                                
+        27,621,596      cache-misses:u                                              
+           240,146      page-faults:u                                               
+
+      24.154971224 seconds time elapsed
+
+      22.474397000 seconds user
+       1.590742000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,085,973,399      cpu-cycles:u                                                
+        27,377,073      cache-misses:u                                              
+           240,754      page-faults:u                                               
+
+      24.151784202 seconds time elapsed
+
+      22.470801000 seconds user
+       1.594090000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    63,963,203,065      cpu-cycles:u                                                
+        26,713,111      cache-misses:u                                              
+           238,013      page-faults:u                                               
+
+      24.160446960 seconds time elapsed
+
+      22.432552000 seconds user
+       1.629826000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,024,103,441      cpu-cycles:u                                                
+        27,389,590      cache-misses:u                                              
+           240,976      page-faults:u                                               
+
+      24.161769271 seconds time elapsed
+
+      22.472689000 seconds user
+       1.590851000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    63,984,894,473      cpu-cycles:u                                                
+        27,646,468      cache-misses:u                                              
+           239,929      page-faults:u                                               
+
+      24.160313462 seconds time elapsed
+
+      22.435356000 seconds user
+       1.627711000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,026,794,737      cpu-cycles:u                                                
+        27,422,795      cache-misses:u                                              
+           240,640      page-faults:u                                               
+
+      24.187123383 seconds time elapsed
+
+      22.471093000 seconds user
+       1.608428000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    63,803,381,796      cpu-cycles:u                                                
+        27,676,570      cache-misses:u                                              
+           240,987      page-faults:u                                               
+
+      24.164276954 seconds time elapsed
+
+      22.441454000 seconds user
+       1.639140000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    64,100,500,938      cpu-cycles:u                                                
+        27,662,741      cache-misses:u                                              
+           240,180      page-faults:u                                               
+
+      24.212633391 seconds time elapsed
+
+      22.494709000 seconds user
+       1.582390000 seconds sys
+
+
+    64,073,632,437      cpu-cycles:u                                                
+        27,335,753      cache-misses:u                                              
+           241,274      page-faults:u                                               
+
+      24.371334957 seconds time elapsed
+
+      22.492999000 seconds user
+       1.584299000 seconds sys
+
+
+
+ Performance counter stats for './build/src/bucketsort/bucketsort_mpi 100000000 7000':
+
+    65,039,860,692      cpu-cycles:u                                                
+       116,212,189      cache-misses:u                                              
+           661,154      page-faults:u                                               
+
+      24.161875816 seconds time elapsed
+
+      22.546370000 seconds user
+       1.525393000 seconds sys
+

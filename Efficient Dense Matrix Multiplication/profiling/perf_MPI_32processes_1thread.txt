@@ -1,0 +1,417 @@
+Output file to: ./result.txt
+Multiplication Complete!
+Execution Time: 63 milliseconds
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,531,802,298      cpu-cycles:u                                                
+         2,040,377      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.612855215 seconds time elapsed
+
+       0.551956000 seconds user
+       0.033935000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,523,391,232      cpu-cycles:u                                                
+         1,864,810      cache-misses:u                                              
+             4,567      page-faults:u                                               
+
+       1.053332246 seconds time elapsed
+
+       0.548784000 seconds user
+       0.037916000 seconds sys
+
+
+     1,524,839,102      cpu-cycles:u                                                
+         1,862,653      cache-misses:u                                              
+             5,078      page-faults:u                                               
+
+       1.130551570 seconds time elapsed
+
+       0.548709000 seconds user
+       0.039978000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,539,210,872      cpu-cycles:u                                                
+         2,007,796      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.611763975 seconds time elapsed
+
+       0.549644000 seconds user
+       0.037906000 seconds sys
+
+
+     1,537,564,641      cpu-cycles:u                                                
+         1,971,466      cache-misses:u                                              
+             5,082      page-faults:u                                               
+
+       0.610870059 seconds time elapsed
+
+       0.551364000 seconds user
+       0.035958000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,528,884,564      cpu-cycles:u                                                
+         1,891,497      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.615589570 seconds time elapsed
+
+       0.556293000 seconds user
+       0.031959000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,522,986,742      cpu-cycles:u                                                
+         2,021,921      cache-misses:u                                              
+             4,566      page-faults:u                                               
+
+       1.273151988 seconds time elapsed
+
+       0.545976000 seconds user
+       0.043077000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,529,624,562      cpu-cycles:u                                                
+         1,892,735      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.630750238 seconds time elapsed
+
+       0.553202000 seconds user
+       0.035948000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,522,875,239      cpu-cycles:u                                                
+         1,945,780      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.662596518 seconds time elapsed
+
+       0.549654000 seconds user
+       0.040899000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,531,671,283      cpu-cycles:u                                                
+         2,024,209      cache-misses:u                                              
+             5,080      page-faults:u                                               
+
+       0.613887866 seconds time elapsed
+
+       0.554288000 seconds user
+       0.033834000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,525,855,405      cpu-cycles:u                                                
+         2,031,901      cache-misses:u                                              
+             5,080      page-faults:u                                               
+
+       0.666676224 seconds time elapsed
+
+       0.544981000 seconds user
+       0.044916000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,531,029,102      cpu-cycles:u                                                
+         1,912,592      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.615190719 seconds time elapsed
+
+       0.554580000 seconds user
+       0.033974000 seconds sys
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,522,879,900      cpu-cycles:u                                                
+         1,938,656      cache-misses:u                                              
+             5,080      page-faults:u                                               
+
+       0.631871083 seconds time elapsed
+
+       0.551203000 seconds user
+       0.039870000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,521,148,984      cpu-cycles:u                                                
+         1,911,436      cache-misses:u                                              
+             5,080      page-faults:u                                               
+
+       0.632120579 seconds time elapsed
+
+       0.555237000 seconds user
+       0.035015000 seconds sys
+
+
+     1,531,961,711      cpu-cycles:u                                                
+         1,894,386      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.621894919 seconds time elapsed
+
+       0.552186000 seconds user
+       0.037012000 seconds sys
+
+
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,533,505,561      cpu-cycles:u                                                
+         1,913,781      cache-misses:u                                              
+             5,080      page-faults:u                                               
+
+       0.629346378 seconds time elapsed
+
+       0.552444000 seconds user
+       0.036962000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,518,117,776      cpu-cycles:u                                                
+         1,901,675      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.615817639 seconds time elapsed
+
+       0.546045000 seconds user
+       0.039930000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,504,339,988      cpu-cycles:u                                                
+         1,928,541      cache-misses:u                                              
+             5,081      page-faults:u                                               
+
+       0.667408194 seconds time elapsed
+
+       0.540454000 seconds user
+       0.044706000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,525,250,615      cpu-cycles:u                                                
+         1,854,771      cache-misses:u                                              
+             5,078      page-faults:u                                               
+
+       1.733210871 seconds time elapsed
+
+       0.547928000 seconds user
+       0.043914000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,524,792,501      cpu-cycles:u                                                
+         1,867,581      cache-misses:u                                              
+             5,078      page-faults:u                                               
+
+       1.472443134 seconds time elapsed
+
+       0.544710000 seconds user
+       0.046717000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,522,734,348      cpu-cycles:u                                                
+         2,032,747      cache-misses:u                                              
+             5,077      page-faults:u                                               
+
+       1.603419135 seconds time elapsed
+
+       0.543030000 seconds user
+       0.048822000 seconds sys
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,522,698,442      cpu-cycles:u                                                
+         2,034,362      cache-misses:u                                              
+             4,566      page-faults:u                                               
+
+       1.261751472 seconds time elapsed
+
+       0.555091000 seconds user
+       0.034942000 seconds sys
+
+
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,514,616,259      cpu-cycles:u                                                
+         2,036,255      cache-misses:u                                              
+             5,075      page-faults:u                                               
+
+       1.062450696 seconds time elapsed
+
+       0.548025000 seconds user
+       0.040852000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,523,267,681      cpu-cycles:u                                                
+         2,038,418      cache-misses:u                                              
+             5,077      page-faults:u                                               
+
+       1.127130542 seconds time elapsed
+
+       0.546560000 seconds user
+       0.044881000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,523,168,881      cpu-cycles:u                                                
+         2,032,943      cache-misses:u                                              
+             5,077      page-faults:u                                               
+
+       1.360178603 seconds time elapsed
+
+       0.552093000 seconds user
+       0.039934000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,524,684,528      cpu-cycles:u                                                
+         2,021,033      cache-misses:u                                              
+             5,077      page-faults:u                                               
+
+       3.155741661 seconds time elapsed
+
+       0.551507000 seconds user
+       0.042806000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,523,765,776      cpu-cycles:u                                                
+         1,867,716      cache-misses:u                                              
+             5,078      page-faults:u                                               
+
+       1.880273143 seconds time elapsed
+
+       0.547609000 seconds user
+       0.044967000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,524,050,139      cpu-cycles:u                                                
+         1,835,253      cache-misses:u                                              
+             5,078      page-faults:u                                               
+
+       1.054835452 seconds time elapsed
+
+       0.551755000 seconds user
+       0.039909000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,525,353,697      cpu-cycles:u                                                
+         1,876,299      cache-misses:u                                              
+             5,079      page-faults:u                                               
+
+       1.318036005 seconds time elapsed
+
+       0.546476000 seconds user
+       0.045872000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,522,782,692      cpu-cycles:u                                                
+         2,017,635      cache-misses:u                                              
+             5,077      page-faults:u                                               
+
+       0.961027647 seconds time elapsed
+
+       0.545193000 seconds user
+       0.045932000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,524,301,079      cpu-cycles:u                                                
+         1,870,762      cache-misses:u                                              
+             4,567      page-faults:u                                               
+
+       1.349793960 seconds time elapsed
+
+       0.553968000 seconds user
+       0.033875000 seconds sys
+
+
+
+ Performance counter stats for './src/mpi 1 ../matrices/matrix5.txt ../matrices/matrix6.txt ./result.txt':
+
+     1,231,382,009      cpu-cycles:u                                                
+         2,217,564      cache-misses:u                                              
+             7,557      page-faults:u                                               
+
+       0.660295789 seconds time elapsed
+
+       0.444665000 seconds user
+       0.055832000 seconds sys

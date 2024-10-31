@@ -1,0 +1,10 @@
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+   109,192,857,296      cpu-cycles:u                                                
+           205,064      cache-misses:u                                              
+             3,309      page-faults:u                                               
+
+      38.117438808 seconds time elapsed
+
+      38.001102000 seconds user
+       0.007981000 seconds sys

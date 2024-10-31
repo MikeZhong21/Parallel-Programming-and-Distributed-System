@@ -1,0 +1,50 @@
+ Performance counter stats for './build/src/quicksort/quicksort_mpi 100000000':
+
+    55,412,236,028      cpu-cycles:u                                                
+        30,723,788      cache-misses:u                                              
+             4,961      page-faults:u                                               
+
+      20.554155210 seconds time elapsed
+
+      19.601393000 seconds user
+       0.850022000 seconds sys
+
+
+
+Performance counter stats for './build/src/quicksort/quicksort_mpi 100000000':
+
+    55,405,063,171      cpu-cycles:u                                                
+        29,487,597      cache-misses:u                                              
+             5,471      page-faults:u                                               
+
+      20.580292539 seconds time elapsed
+
+      19.603338000 seconds user
+       0.848935000 seconds sys
+
+
+
+ Performance counter stats for './build/src/quicksort/quicksort_mpi 100000000':
+
+    57,326,787,653      cpu-cycles:u                                                
+       156,787,149      cache-misses:u                                              
+            14,956      page-faults:u                                               
+
+      20.512402172 seconds time elapsed
+
+      19.856070000 seconds user
+       0.602575000 seconds sys
+
+
+
+ Performance counter stats for './build/src/quicksort/quicksort_mpi 100000000':
+
+    55,342,857,325      cpu-cycles:u                                                
+        23,442,407      cache-misses:u                                              
+             5,474      page-faults:u                                               
+
+      20.517820811 seconds time elapsed
+
+      19.587498000 seconds user
+       0.862907000 seconds sys
+

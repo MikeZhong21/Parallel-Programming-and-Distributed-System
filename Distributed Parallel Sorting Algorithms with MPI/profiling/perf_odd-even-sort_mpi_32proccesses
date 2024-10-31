@@ -1,0 +1,414 @@
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,582,345,961      cpu-cycles:u                                                
+        15,899,478      cache-misses:u                                              
+             1,986      page-faults:u                                               
+
+       6.653532004 seconds time elapsed
+
+       6.492561000 seconds user
+       0.120731000 seconds sys
+
+
+    18,545,888,011      cpu-cycles:u                                                
+        20,939,377      cache-misses:u                                              
+             1,971      page-faults:u                                               
+
+       6.645910524 seconds time elapsed
+
+       6.491395000 seconds user
+       0.120691000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,369,571,024      cpu-cycles:u                                                
+         5,752,823      cache-misses:u                                              
+             2,414      page-faults:u                                               
+
+       6.900506500 seconds time elapsed
+
+       6.439810000 seconds user
+       0.173590000 seconds sys
+
+
+    18,398,195,320      cpu-cycles:u                                                
+         4,859,363      cache-misses:u                                              
+             2,408      page-faults:u                                               
+
+       6.866697565 seconds time elapsed
+
+       6.442442000 seconds user
+       0.170614000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,528,110,326      cpu-cycles:u                                                
+        29,166,693      cache-misses:u                                              
+             1,987      page-faults:u                                               
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,507,967,206      cpu-cycles:u                                                
+        28,777,181      cache-misses:u                                              
+             1,971      page-faults:u                                               
+
+       6.653835716 seconds time elapsed
+
+       6.483046000 seconds user
+       0.130678000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,366,140,700      cpu-cycles:u                                                
+         5,336,495      cache-misses:u                                              
+             1,966      page-faults:u                                               
+
+       6.649578428 seconds time elapsed
+
+       6.450945000 seconds user
+       0.162620000 seconds sys
+
+
+
+       6.651008729 seconds time elapsed
+
+       6.484622000 seconds user
+       0.128694000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,489,745,954      cpu-cycles:u                                                
+         4,872,108      cache-misses:u                                              
+             1,911      page-faults:u                                               
+
+       7.206251485 seconds time elapsed
+
+       6.462762000 seconds user
+       0.150644000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,461,335,116      cpu-cycles:u                                                
+         5,256,036      cache-misses:u                                              
+             1,984      page-faults:u                                               
+
+       6.663369480 seconds time elapsed
+
+       6.457269000 seconds user
+       0.156594000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,479,522,461      cpu-cycles:u                                                
+         4,185,229      cache-misses:u                                              
+             1,913      page-faults:u                                               
+
+       7.890721857 seconds time elapsed
+
+       6.476440000 seconds user
+       0.136692000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,486,663,942      cpu-cycles:u                                                
+         4,132,562      cache-misses:u                                              
+             2,475      page-faults:u                                               
+
+       6.668624411 seconds time elapsed
+
+       6.492823000 seconds user
+       0.120736000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,359,583,800      cpu-cycles:u                                                
+         2,469,435      cache-misses:u                                              
+             1,909      page-faults:u                                               
+
+       8.481453471 seconds time elapsed
+
+       6.448619000 seconds user
+       0.165630000 seconds sys
+
+
+    18,556,563,648      cpu-cycles:u                                                
+        14,851,769      cache-misses:u                                              
+             1,915      page-faults:u                                               
+
+       7.267971742 seconds time elapsed
+
+       6.489799000 seconds user
+       0.123710000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,499,850,673      cpu-cycles:u                                                
+        24,330,740      cache-misses:u                                              
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,325,869,449      cpu-cycles:u                                                
+         4,666,148      cache-misses:u                                              
+             2,419      page-faults:u                                               
+
+       7.034130422 seconds time elapsed
+
+       6.431427000 seconds user
+       0.182529000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,570,038,501      cpu-cycles:u                                                
+        18,475,560      cache-misses:u                                              
+             2,472      page-faults:u                                               
+
+       6.651557001 seconds time elapsed
+
+       6.486024000 seconds user
+       0.127724000 seconds sys
+
+
+             1,918      page-faults:u                                               
+
+       6.928582357 seconds time elapsed
+
+       6.472208000 seconds user
+       0.141632000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,338,159,885      cpu-cycles:u                                                
+         5,096,600      cache-misses:u                                              
+             1,989      page-faults:u                                               
+
+       6.651921536 seconds time elapsed
+
+       6.430045000 seconds user
+       0.183573000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,572,215,336      cpu-cycles:u                                                
+        17,410,338      cache-misses:u                                              
+             2,495      page-faults:u                                               
+
+       6.659310417 seconds time elapsed
+
+       6.494346000 seconds user
+       0.119729000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,531,120,905      cpu-cycles:u                                                
+        24,110,969      cache-misses:u                                              
+             2,493      page-faults:u                                               
+
+       6.647759855 seconds time elapsed
+
+       6.479801000 seconds user
+       0.134704000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,387,659,713      cpu-cycles:u                                                
+         5,465,982      cache-misses:u                                              
+             2,497      page-faults:u                                               
+
+       6.647875429 seconds time elapsed
+
+       6.443068000 seconds user
+       0.171575000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,460,345,746      cpu-cycles:u                                                
+         5,091,982      cache-misses:u                                              
+             2,422      page-faults:u                                               
+
+       7.034469510 seconds time elapsed
+
+       6.474009000 seconds user
+       0.139633000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,445,995,347      cpu-cycles:u                                                
+         4,181,854      cache-misses:u                                              
+             2,486      page-faults:u                                               
+
+       6.679236428 seconds time elapsed
+
+       6.465807000 seconds user
+       0.148650000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,365,935,337      cpu-cycles:u                                                
+         6,138,109      cache-misses:u                                              
+             2,495      page-faults:u                                               
+
+       6.647815798 seconds time elapsed
+
+       6.421700000 seconds user
+       0.192541000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,521,229,743      cpu-cycles:u                                                
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,470,644,984      cpu-cycles:u                                                
+         5,335,430      cache-misses:u                                              
+             2,494      page-faults:u                                               
+
+       6.649369701 seconds time elapsed
+
+       6.464023000 seconds user
+       0.149676000 seconds sys
+
+
+        14,747,039      cache-misses:u                                              
+             2,425      page-faults:u                                               
+
+       7.767229520 seconds time elapsed
+
+       6.478826000 seconds user
+       0.135703000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,551,431,911      cpu-cycles:u                                                
+        16,314,501      cache-misses:u                                              
+             2,419      page-faults:u                                               
+
+       7.254773178 seconds time elapsed
+
+       6.482875000 seconds user
+       0.131713000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,536,273,917      cpu-cycles:u                                                
+        18,604,796      cache-misses:u                                              
+             2,423      page-faults:u                                               
+
+       7.048511564 seconds time elapsed
+
+       6.458639000 seconds user
+       0.155653000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,502,228,507      cpu-cycles:u                                                
+        27,703,119      cache-misses:u                                              
+             2,426      page-faults:u                                               
+
+       6.887092973 seconds time elapsed
+
+       6.481693000 seconds user
+       0.132666000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,487,356,369      cpu-cycles:u                                                
+        29,192,769      cache-misses:u                                              
+             2,431      page-faults:u                                               
+
+       7.399080207 seconds time elapsed
+
+       6.461859000 seconds user
+       0.152665000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,410,169,053      cpu-cycles:u                                                
+        15,758,280      cache-misses:u                                              
+             2,426      page-faults:u                                               
+
+       7.161104308 seconds time elapsed
+
+       6.465323000 seconds user
+       0.148616000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,325,981,701      cpu-cycles:u                                                
+         5,191,786      cache-misses:u                                              
+             2,428      page-faults:u                                               
+
+       7.056053646 seconds time elapsed
+
+       6.441640000 seconds user
+       0.172588000 seconds sys
+
+
+
+ Performance counter stats for './build/src/odd-even-sort/odd-even-sort_mpi 200000':
+
+    18,505,218,299      cpu-cycles:u                                                
+        13,793,747      cache-misses:u                                              
+             3,118      page-faults:u                                               
+
+       6.653988989 seconds time elapsed
+
+       6.494862000 seconds user
+       0.132690000 seconds sys
+
